@@ -1,0 +1,4 @@
+#Sun Aug 20 23:48:36 EDT 2017
+base.0=/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

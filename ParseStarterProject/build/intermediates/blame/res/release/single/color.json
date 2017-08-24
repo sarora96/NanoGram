@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/f2126efbf63356e635902bca70da7ea8cc77d694/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/sarthakarora/.android/build-cache/f2126efbf63356e635902bca70da7ea8cc77d694/output/res/color/wallet_secondary_text_holo_dark.xml"
+    }
+]

@@ -1,0 +1,441 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-37:12
+	package
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/sarthakarora/.android/build-cache/ab5aab8baff1c3070a5135ffa4155c230e880e55/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/sarthakarora/.android/build-cache/d81644ec6df4c2ad1b082e4497ab3edf53455f54/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/d41396bccd1930a37ffeba4ea3110a8be9be7b4d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/sarthakarora/.android/build-cache/3eed609f644c11d8eb94a4b712298893231ce53a/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/d41396bccd1930a37ffeba4ea3110a8be9be7b4d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-35:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/sarthakarora/.android/build-cache/6949e8fdd28a2519d5455950b7c96d0e2cef5924/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/sarthakarora/.android/build-cache/1cca079cdd330f83af8cfb630a4a7c15eb4565e3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/sarthakarora/.android/build-cache/8c4e63c306718fd80b571fe1722f4532ccfb4e8c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/sarthakarora/.android/build-cache/c77e6bb6ac5f3f2a735df855dd90936691214a43/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/sarthakarora/.android/build-cache/9c2ff35bb39973e586d41b947d101cb91a6feb2e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/sarthakarora/.android/build-cache/e5f0d4e196c79a8bfc7ba2c35ace9627797b4956/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/sarthakarora/.android/build-cache/0934fa3813f988b92573854e424840b1a8e4f654/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/sarthakarora/.android/build-cache/54b76356a4a9bbede18574672ce648c1b1ba8d9c/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/sarthakarora/.android/build-cache/a810d1f83a1abd08f615f2358d48aeb653242785/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/sarthakarora/.android/build-cache/3968fadffc610d02b9adbf7bf44c7191a99f2af6/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/sarthakarora/.android/build-cache/cf97aec0052339d04e93a6d0dde7dffe422016da/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/sarthakarora/.android/build-cache/2b91cfd47c585f4ec8bfc50afc0a379cb6009ae0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/sarthakarora/.android/build-cache/ab5aab8baff1c3070a5135ffa4155c230e880e55/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/sarthakarora/.android/build-cache/48b69766fcb19057bab44a3ee684fc35041181e6/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/sarthakarora/.android/build-cache/d81644ec6df4c2ad1b082e4497ab3edf53455f54/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/sarthakarora/.android/build-cache/302c37a65820eaa5189c87a574f3dfdf1dbc01e0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/sarthakarora/.android/build-cache/3eed609f644c11d8eb94a4b712298893231ce53a/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/sarthakarora/.android/build-cache/30ddc63d0206dd416db8e7f26233e985f195557a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/sarthakarora/.android/build-cache/df1a61d6739935237c1dcb5296c13d7efabc813c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/sarthakarora/.android/build-cache/c0e07a3764b11b042c9db760bbfb8513ed1d9271/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/sarthakarora/.android/build-cache/d021ca63496e10e2594160b65f4b8354409c80ff/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/d41396bccd1930a37ffeba4ea3110a8be9be7b4d/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/sarthakarora/.android/build-cache/448929db1ba9d24330d93eda108534f1a16e1306/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/sarthakarora/.android/build-cache/a4cdcdbe0b94362d22892d4d0cd6bc11941683ef/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/sarthakarora/.android/build-cache/82418821e2396ca9add75d8ff9c97f270be587b2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/sarthakarora/.android/build-cache/27e032edc69fb8db14f8848683cbe0bee98dc594/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/sarthakarora/.android/build-cache/40805b0d0159151a27bd85363bf115673ae62b31/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakarora/.android/build-cache/5edf328991470ef1248b50e29a6ec3339e67da95/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/sarthakarora/.android/build-cache/33f623e8144ea29d9a0a1d0c9e4249ab41a7bfe9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/sarthakarora/.android/build-cache/8150c6d47ef8ab8008d93b03086ac7ea4a5c6a74/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/sarthakarora/.android/build-cache/2c65cbe609d580d4b29bbd85a346e3ea530f27fa/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/sarthakarora/.android/build-cache/59b32ad6860fb159403e06c7aabd20c724457f34/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.SignUp
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-41
+activity#com.parse.starter.UserList
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-46
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-43
+activity#com.parse.starter.UserFeed
+ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:19-43
+uses-sdk
+INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/sarthakarora/.android/build-cache/6949e8fdd28a2519d5455950b7c96d0e2cef5924/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/sarthakarora/.android/build-cache/2871fdfbb11edbb4095d9b18fbed2eede47ae1d7/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/sarthakarora/.android/build-cache/ba998f41b1c6e6b1d2a1414f8a2401060ba6e394/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/sarthakarora/.android/build-cache/1cca079cdd330f83af8cfb630a4a7c15eb4565e3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/sarthakarora/.android/build-cache/8c4e63c306718fd80b571fe1722f4532ccfb4e8c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/sarthakarora/.android/build-cache/c77e6bb6ac5f3f2a735df855dd90936691214a43/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/sarthakarora/.android/build-cache/9c2ff35bb39973e586d41b947d101cb91a6feb2e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/sarthakarora/.android/build-cache/e5f0d4e196c79a8bfc7ba2c35ace9627797b4956/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/sarthakarora/.android/build-cache/0934fa3813f988b92573854e424840b1a8e4f654/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/sarthakarora/.android/build-cache/54b76356a4a9bbede18574672ce648c1b1ba8d9c/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/sarthakarora/.android/build-cache/6e3d0c16492a83d3f48b7fc5f56bddda09212874/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/sarthakarora/.android/build-cache/5219d72d795ee7f311a44c1f7ea4bd86bd244871/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/sarthakarora/.android/build-cache/ad842972f92f58f0edf8b98f6aa725bac073d7b6/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/sarthakarora/.android/build-cache/a8e8f1633fec46753c824bfe8a03e0bff90947da/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/sarthakarora/.android/build-cache/ca99bb42ca8796c00988fb34f42b9f9e71a8a43e/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/sarthakarora/.android/build-cache/a810d1f83a1abd08f615f2358d48aeb653242785/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/sarthakarora/.android/build-cache/3968fadffc610d02b9adbf7bf44c7191a99f2af6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/sarthakarora/.android/build-cache/cf97aec0052339d04e93a6d0dde7dffe422016da/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/sarthakarora/.android/build-cache/2b91cfd47c585f4ec8bfc50afc0a379cb6009ae0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/sarthakarora/.android/build-cache/ab5aab8baff1c3070a5135ffa4155c230e880e55/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/sarthakarora/.android/build-cache/48b69766fcb19057bab44a3ee684fc35041181e6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/sarthakarora/.android/build-cache/d81644ec6df4c2ad1b082e4497ab3edf53455f54/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/sarthakarora/.android/build-cache/302c37a65820eaa5189c87a574f3dfdf1dbc01e0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/sarthakarora/.android/build-cache/3eed609f644c11d8eb94a4b712298893231ce53a/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/sarthakarora/.android/build-cache/30ddc63d0206dd416db8e7f26233e985f195557a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/sarthakarora/.android/build-cache/df1a61d6739935237c1dcb5296c13d7efabc813c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/sarthakarora/.android/build-cache/c0e07a3764b11b042c9db760bbfb8513ed1d9271/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/sarthakarora/.android/build-cache/d021ca63496e10e2594160b65f4b8354409c80ff/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/sarthakarora/.android/build-cache/ebcab1cea560c50e5833915f1a34f14c03f35ac2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/d41396bccd1930a37ffeba4ea3110a8be9be7b4d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/sarthakarora/.android/build-cache/448929db1ba9d24330d93eda108534f1a16e1306/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/sarthakarora/.android/build-cache/f2126efbf63356e635902bca70da7ea8cc77d694/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/sarthakarora/.android/build-cache/a4cdcdbe0b94362d22892d4d0cd6bc11941683ef/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/sarthakarora/.android/build-cache/82418821e2396ca9add75d8ff9c97f270be587b2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/sarthakarora/.android/build-cache/27e032edc69fb8db14f8848683cbe0bee98dc594/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/sarthakarora/.android/build-cache/40805b0d0159151a27bd85363bf115673ae62b31/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/sarthakarora/.android/build-cache/4d98d3c7d25f3eea87c39fed2c4455061b5f019c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakarora/.android/build-cache/5edf328991470ef1248b50e29a6ec3339e67da95/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] /Users/sarthakarora/.android/build-cache/33f623e8144ea29d9a0a1d0c9e4249ab41a7bfe9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/sarthakarora/.android/build-cache/a553692153d4e4051bc8e97761d7bd9c8d611ecb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/sarthakarora/.android/build-cache/8150c6d47ef8ab8008d93b03086ac7ea4a5c6a74/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/sarthakarora/.android/build-cache/2c65cbe609d580d4b29bbd85a346e3ea530f27fa/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/sarthakarora/.android/build-cache/59b32ad6860fb159403e06c7aabd20c724457f34/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/sarthakarora/.android/build-cache/3856316e9b68a9f46b7e609b20cf6ff1659a5187/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakarora/Documents/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/sarthakarora/.android/build-cache/9b85550038c9449f513c96322f3c250e08c3348e/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/d41396bccd1930a37ffeba4ea3110a8be9be7b4d/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/2c4e063188cd5900a48fc2033cf1ecb538386aea/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/sarthakarora/.android/build-cache/bb0e6ec8d121de4d33b1b466ee01d0c29a1828d8/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/sarthakarora/.android/build-cache/4a74a676f5e774e089e68bc98a3881ce4b0fa0c4/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/sarthakarora/.android/build-cache/7fe6bd4b1f893656ff5027579726f688225a6365/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/sarthakarora/.android/build-cache/9423233e73a7c712aa92980de49f6bfb3114bcb0/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/sarthakarora/.android/build-cache/f12df8597c5e3b06d00442c6e1b42777bf0f0322/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/sarthakarora/.android/build-cache/ab5aab8baff1c3070a5135ffa4155c230e880e55/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/sarthakarora/.android/build-cache/d81644ec6df4c2ad1b082e4497ab3edf53455f54/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/sarthakarora/.android/build-cache/ab5aab8baff1c3070a5135ffa4155c230e880e55/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/sarthakarora/.android/build-cache/bdc6ef7734a86de824dda8dac7a74781961e8a04/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/sarthakarora/.android/build-cache/459e273ed00ae9109546ee56f31ea2aed12fda53/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/sarthakarora/.android/build-cache/58007e11ed71575af0f7de6829222d02d33d62a4/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/sarthakarora/.android/build-cache/418fb233b50c3cf0d865d6369c9ffcc061b5a462/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/sarthakarora/.android/build-cache/423e26654b71f1270a1515246fc3ed3a264063a4/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/sarthakarora/.android/build-cache/94777ad0f3404de3455dcf98155b687e04b30444/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/sarthakarora/.android/build-cache/ff9725acd855807fe1dcb2a58fb2e9cf5fa0e953/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/sarthakarora/.android/build-cache/40805b0d0159151a27bd85363bf115673ae62b31/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/sarthakarora/.android/build-cache/40805b0d0159151a27bd85363bf115673ae62b31/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/sarthakarora/.android/build-cache/40805b0d0159151a27bd85363bf115673ae62b31/output/AndroidManifest.xml:22:13-58
